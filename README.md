@@ -1,6 +1,7 @@
 Food Delivery Website 🍔🚀
 Overview
-This is a fully functional food delivery web application built using the MERN stack. It allows users to browse restaurants, add food items to their cart, place orders, and track deliveries in real-time. The platform ensures a seamless user experience with an intuitive React.js front-end and a scalable Node.js back-end.
+This is a fully functional food delivery web application built using the MERN stack. It allows users to browse restaurants, add food items to their cart, place orders, and track deliveries in real-time. 
+The platform ensures a seamless user experience with an intuitive React.js front-end and a scalable Node.js back-end.
 
 
 Features 🌟
