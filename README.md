@@ -37,8 +37,6 @@ A modern full stack food delivery platform with seamless user experience, real-t
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots here: homepage, product list, cart, admin dashboard, etc.)*
-
 ---
 
 ## 🧩 Features
